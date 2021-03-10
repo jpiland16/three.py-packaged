@@ -1,10 +1,11 @@
 Metadata-Version: 2.1
 Name: three-py-packaged
-Version: 0.0.5
+Version: 0.0.6
 Summary: installable version of stemkoski/three.py
 Home-page: https://github.com/jpiland16/three.py-packaged
+Author: Jonathan Piland
 Author-email: jpiland16@gmail.com
-License: UNKNOWN
+License: MIT
 Project-URL: Bug Tracker, https://github.com/jpiland16/three.py-packaged/issues
 Description: three-py-packaged
         =================
