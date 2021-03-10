@@ -1,0 +1,4 @@
+recursive-include three/images *
+recursive-include three/docs *
+recursive-include three/models *
+recursive-include three/fonts *

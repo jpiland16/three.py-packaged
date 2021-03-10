@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: three-py-packaged
+Version: 0.0.5
+Summary: installable version of stemkoski/three.py
+Home-page: https://github.com/jpiland16/three.py-packaged
+Author-email: jpiland16@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/jpiland16/three.py-packaged/issues
+Description: three-py-packaged
+        =================
+        
+        This project serves as a `pip`-installable version of `three.py` created by Dr. Lee Stemkoski. His original source code can be found [here](https://github.com/stemkoski/three.py).
+        
+        This project uses the MIT license.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
